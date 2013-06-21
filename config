@@ -1,0 +1,5 @@
+<Config>
+<Plugin Identify="hlddz_one" Status="formal" Version="1.0.1" Name="欢乐斗地主"/>
+<Plugin Identify="hlddz_two" Status="notice" Version="1.2.1" Name="四人欢乐斗地主"/>
+<Plugin Identify="hlddz_three" Status="notice" Version="1.0.0" Name="五人欢乐斗地主"/>
+</Config>
