@@ -1,5 +1,5 @@
 <Config>
-<Plugin Identify="ddz_one" Status="formal" Version="1.2.1" Name="斗地主" />
+<Plugin Identify="ddz_one" Status="formal" Version="1.2.2" Name="斗地主" />
 <Plugin Identify="hlddz_one" Status="formal" Version="1.0.1" Name="欢乐斗地主" />
 <Plugin Identify="hlddz_two" Status="formal" Version="1.2.1" Name="四人欢乐斗地主" />
 <Plugin Identify="shengji" Status="notice" Version="1.0.0" Name="升级" />
