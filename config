@@ -1,6 +1,6 @@
 <Config>
 <Plugin Identify="ddz_one" Status="official" Version="2.0.3" Name="斗地主" />
-<Plugin Identify="hlddz_one" Status="official" Version="1.4.1" Name="欢乐斗地主" />
-<Plugin Identify="hlddz_two" Status="informal" Version="1.0.0" Name="四人欢乐斗地主" />
+<Plugin Identify="hlddz_one" Status="official" Version="1.0.0" Name="欢乐斗地主" />
+<Plugin Identify="hlddz_two" Status="informal" Version="1.0.1" Name="四人欢乐斗地主" />
 <Plugin Identify="hlddz_three" Status="notice" Version="1.0.0" Name="敬请期待的游戏" />
 </Config>
